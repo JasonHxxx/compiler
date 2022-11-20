@@ -1,0 +1,14 @@
+int func(int i)
+{
+   return i;
+}
+
+int func()
+{
+   int func;
+   return 1.1;
+}
+
+int main()
+{
+}
